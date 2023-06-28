@@ -10,7 +10,8 @@
       "level": "Junior",
       "contract": "Full Time",
       "position": " Backend Developer",
-      "language": "Java"
+      "language": "Java",
+      "heroImage": "https://marketplace.canva.com/EAFauoQSZtY/1/0/400w/canva-brown-mascot-lion-free-logo-jkQ4FTu0MlM.jpg"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "level": "Junior",
       "contract": "Full Time",
       "position": "Junior Frontend Developer",
-      "language": "Java"
+      "language": "Java",
+      "heroImage": "https://marketplace.canva.com/EAFMNm9ybqQ/1/0/1600w/canva-gold-luxury-initial-circle-logo-qRQJCijq_Jw.jpg"
     }
   ]
 }
